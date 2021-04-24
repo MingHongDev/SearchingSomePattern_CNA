@@ -14,6 +14,7 @@ $ var=$(cat template.txt)
 $ egrep -n --color=always $var report.txt
 ```
 ```shell=
+# Other command.
 $ ls -al template.txt # To look the authority of file 
 $ chmod XXX tempalate.txt  #To modify the authorith of file.
 ```
